@@ -1,0 +1,27 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: [10-1-2014] Online Yearbook-v2.aux
+The style file: ./IEEE/IEEEtran.bst
+Database file #1: ./cs190-ieee.bib
+I was expecting a `,' or a `}'---line 117 of file ./cs190-ieee.bib
+ : 
+ : year = {2014}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 181 of file ./cs190-ieee.bib
+ :   
+ :   title = "{Highlights of the January 2014 Labor Force Survey}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.11 (2003/04/02) by Michael Shell.
+-- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Too many commas in name 1 of "Abuso, Ray Cedric Louis H.; Virtucio, Reuel Carlo P.; Calayag, Ernest Francis; Magno, Katrina Joy H." for entry wpangako
+while executing---line 2363 of file ./IEEE/IEEEtran.bst
+Too many commas in name 1 of "Abuso, Ray Cedric Louis H.; Virtucio, Reuel Carlo P.; Calayag, Ernest Francis; Magno, Katrina Joy H." for entry wpangako
+while executing---line 2363 of file ./IEEE/IEEEtran.bst
+Warning--empty journal in wpangako
+Warning--empty title in ble
+Warning--empty journal in ble
+Warning--empty year in ble
+
+Done.
+(There were 4 error messages)

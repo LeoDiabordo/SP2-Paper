@@ -1,0 +1,186 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{electronic_eb_papermaking}
+\BIBentryALTinterwordspacing
+Papermaking. Encyclopaedia Britannica Online. [Online]. Available:
+  \url{http://www.britannica.com/EBchecked/topic/1357055/papermaking}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_glibproj}
+\BIBentryALTinterwordspacing
+{L}ibrary {P}roject. Google Books. [Online]. Available:
+  \url{http://books.google.com/googlebooks/library/index.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_oca}
+\BIBentryALTinterwordspacing
+Open Content Alliance. [Online]. Available:
+  \url{http://www.opencontentalliance.org/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_glibproj_perspective}
+\BIBentryALTinterwordspacing
+Perspective. Google Books. [Online]. Available:
+  \url{http://books.google.com/googlebooks/perspectives/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_oca_about}
+\BIBentryALTinterwordspacing
+{O}pen {C}ontent {A}lliance. [Online]. Available:
+  \url{http://www.opencontentalliance.org/about}
+\BIBentrySTDinterwordspacing
+
+\bibitem{article_51_yearbooks}
+\BIBentryALTinterwordspacing
+D.~Free, ``{Yearbooks from 51 NC colleges and universities archived online.}''
+  \emph{College \& Research Libraries News}, vol.~73, no.~8, pp. 454 -- 455,
+  2012. [Online]. Available:
+  \url{http://search.ebscohost.com/login.aspx?direct=true\&db=a9h\&AN=7973\
+  0279\&site=ehost-live}
+\BIBentrySTDinterwordspacing
+
+\bibitem{6615172220111003}
+\BIBentryALTinterwordspacing
+F.~Russo, ``The new online job hunt.'' \emph{Time}, vol. 178, no.~13, pp. B14
+  -- B16, 2011. [Online]. Available:
+  \url{http://search.ebscohost.com/login.aspx?direct=true\&db=a9h\&AN=6615\
+  1722\&site=ehost-live}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_oar}
+\BIBentryALTinterwordspacing
+{UPLB} {A}lumni {S}tatistics. UPLB Office of Alumni Relations. [Online].
+  Available: \url{http://oar.uplb.edu.ph/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wpangako}
+R.~C. P. C. E. F. M. K. J.~H. Abuso, Ray Cedric Louis H.;~Virtucio,
+  ``{WikiPangako: An Integrated Record-Tracking System of Government
+  Officials’ Projects and Plans in the Philippines},'' 2014.
+
+\bibitem{fb}
+\BIBentryALTinterwordspacing
+{Company Info | Facebook Newsroom}. Facebook Inc. [Online]. Available:
+  \url{http://newsroom.fb.com/company-info/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ny}
+\BIBentryALTinterwordspacing
+(2014, February) {The Plus in Google Plus? It’s Mostly for Google -
+  NYTimes.com}. The New York Times. [Online]. Available:
+  \url{http://www.nytimes.com/2014/02/15/technology/the-plus-in-google-plus-its-mostly-for-google.html?\_r=2}
+\BIBentrySTDinterwordspacing
+
+\bibitem{twitter}
+\BIBentryALTinterwordspacing
+(2014) {About Twitter, Inc. | About}. Twitter, Inc. [Online]. Available:
+  \url{https://about.twitter.com/company}
+\BIBentrySTDinterwordspacing
+
+\bibitem{insta}
+\BIBentryALTinterwordspacing
+{Press Page - Instagram}. Instagram, Inc. [Online]. Available:
+  \url{http://instagram.com/press/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{seekingalpha}
+\BIBentryALTinterwordspacing
+(2014, February) {LinkedIn Is A Good Long-Term Choice - LinkedIn (NYSE:LNKD) |
+  Seeking Alpha}. Seeking Alpha. [Online]. Available:
+  \url{http://seekingalpha.com/article/2021451-linkedin-is-a-good-long-term-choice}
+\BIBentrySTDinterwordspacing
+
+\bibitem{achievers12}
+\BIBentryALTinterwordspacing
+(2012) {Achievers and Experience Inc. Reveal Class of 2012 Study Results to
+  Understand the Needs of the Future Workforce}. Achievers Corp. [Online].
+  Available:
+  \url{http://www.achievers.com/about-us/press-release/achievers-and-experience-inc-reveal-class-2012-study-results}
+\BIBentrySTDinterwordspacing
+
+\bibitem{achievers13}
+\BIBentryALTinterwordspacing
+(2014) {Achievers “Class of 2013” Survey Results Reveal Dramatic Increase
+  in Social Job-Seeking for College Graduates}. Achievers Corp. [Online].
+  Available:
+  \url{http://www.achievers.com/about-us/press-release/achievers-\%E2\%80\%9Cclass-2013\%E2\%80\%9D-survey-results-reveal-dramatic-increase-social-job}
+\BIBentrySTDinterwordspacing
+
+\bibitem{7316265520120301}
+\BIBentryALTinterwordspacing
+J.~Guillory and J.~T. Hancock, ``{The Effect of Linkedin on Deception in
+  Resumes.}'' \emph{CyberPsychology, Behavior \& Social Networking}, vol.~15,
+  no.~3, pp. 135 -- 140, 2012. [Online]. Available:
+  \url{http://search.ebscohost.com/login.aspx?direct=true\&db=a9h\&AN=7316\
+  2655\&site=ehost-live}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ble}
+P.~S. Authority.
+
+\bibitem{jobhop}
+B.~Wolf, ``{Is Job Hopping the New Normal?}'' \emph{{T+D}}, vol.~68, no.~3, pp.
+  20 -- 20, Aug. 2014.
+
+\bibitem{gfog}
+\BIBentryALTinterwordspacing
+(2012, June) {Agonising about your first job after uni? Don’t bother –
+  you’ll be off in 18 months}. Graduate Fog. [Online]. Available:
+  \url{http://graduatefog.co.uk/2012/2101/job-hopping-graduates-job-18-months/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{UM}
+\BIBentryALTinterwordspacing
+University of maryland yearbooks. University of Maryland. [Online]. Available:
+  \url{http://www.lib.umd.edu/univarchives/yearbooks}
+\BIBentrySTDinterwordspacing
+
+\bibitem{UP}
+\BIBentryALTinterwordspacing
+Penn's undergraduate yearbook. University of Pennsylvania. [Online]. Available:
+  \url{http://www.archives.upenn.edu/primdocs/upm/upm7100\ /record\_entry.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{UI}
+\BIBentryALTinterwordspacing
+University of iowa yearbooks. University of Iowa. [Online]. Available:
+  \url{http://digital.lib.uiowa.edu/cdm/search/collection/yearbooks}
+\BIBentrySTDinterwordspacing
+
+\bibitem{UD}
+\BIBentryALTinterwordspacing
+Blue hen yearbooks. University of Delaware. [Online]. Available:
+  \url{http://udspace.udel.edu/handle/19716/5673}
+\BIBentrySTDinterwordspacing
+
+\bibitem{CU}
+\BIBentryALTinterwordspacing
+Creighton university yearbooks. Creighton University. [Online]. Available:
+  \url{http://www.creighton.edu/archives/onlineresources/yearbooks/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{UN}
+\BIBentryALTinterwordspacing
+University of nebraska yearbooks. University of Nebraska. [Online]. Available:
+  \url{http://yearbooks.unl.edu/}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}
